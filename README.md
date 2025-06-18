@@ -15,13 +15,13 @@ The playlist manager supports basic and advanced operations on songs, including:
 > All operations are handled dynamically using linked list structures — singly for basic operations and doubly for enhanced navigation.
 
 
-## 📁Project Structure
+## Project Structure
 
 - `Playlist.java` – Contains both SinglyLinkedList and DoublyLinkedList implementations  
 - `PlaylistManager.java` – Console menu UI for testing and interacting with the playlist   
 - `README.md` – You are reading it!  
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure Java is installed on your machine.
 2. Clone this repo or download the files.
